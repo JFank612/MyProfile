@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="idTextName">"Joel's Profile"</string>
+    <string name="buttonText">View Profile</string>
+    <string name="idBio">My name is Joel Fankhauser \n 30 years old \n Working my web design and development degree.</string>
+
+</resources>
